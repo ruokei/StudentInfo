@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627512989060",
+    "firebase_url": "https://fir-demorsd-c5c79-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-demorsd-c5c79",
+    "storage_bucket": "fir-demorsd-c5c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627512989060:android:59df2e3f130e72b6f579d1",
+        "android_client_info": {
+          "package_name": "com.example.studentinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627512989060-i6cmuqufro5olr17rvb5uj584i68na0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKTU0DldY2Ho6jiDJGc5Igi6qVCU0ytKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627512989060-i6cmuqufro5olr17rvb5uj584i68na0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
